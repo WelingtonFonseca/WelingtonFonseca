@@ -21,7 +21,7 @@
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=1E90FF&size=20&duration=1500&pause=900&width=600&lines=Estudo+Data+Science+na+FIAP;Tranformo+dados+em+Insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=1E90FF&size=20&duration=1500&pause=900&width=600&lines=Estudo+Data+Science+na+FIAP;Transformo+dados+em+Insights)](https://git.io/typing-svg)
 
 <div align="center">
   <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=WelingtonFonseca&rank_icon=github&show_icons=true&theme=tokyonight">
