@@ -24,9 +24,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=1E90FF&size=20&duration=1500&pause=900&width=600&lines=Estudo+Data+Science+na+FIAP;Transformo+dados+em+Insights)](https://git.io/typing-svg)
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=WelingtonFonseca&rank_icon=github&show_icons=true&theme=tokyonight">
-  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=WelingtonFonseca&layout=compact&theme=tokyonight">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=WelingtonFonseca&rank_icon=github&show_icons=true&theme=tokyonight&count_private=true">
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=WelingtonFonseca&layout=compact&theme=tokyonight&count_private=true">
   <img align="center" alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WelingtonFonseca&theme=tokyonight"/>
+</div>
 
 </div>
 
